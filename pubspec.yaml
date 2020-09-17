@@ -1,8 +1,8 @@
 name: dropdownwithsearch
 description: A new Flutter dropdown package with search option.
 version: 0.0.1
-author:
-homepage:
+author: ganeshshirole
+homepage: https://github.com/ganeshshirole
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
